@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list/list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellywoo/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selfstudygo/algorithm/issue"
+  },
+  "homepage": "https://github.com/selfstudygo/algorithm",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
